@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "RUIKitchen"
   s.version      = "0.0.1"
-  s.summary      = "Some drop-in view controllers"
+  s.summary      = "Some drop-in view controllers."
   s.homepage     = "https://github.com/RobinQu/RUIKitchen"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "RobinQu" => "robinqu@gmail.com" }
